@@ -16,33 +16,32 @@ This repository is my Digital Literacy Portfolio submitted as part of the CSE000
 
 ---
 
-## 📁 digital-literacy-project/
+digital-literacy-project/
 │
 ├── README.md
-│
 ├── report/
-│   └── Project_Report.pdf
+│ └── Project_Report.pdf
 │
 ├── task-1-presentation/
-│   └── infographic.png
+│ └── infographic.png
 │
 ├── task-2-portfolio/
-│   ├── github.png
-│   ├── linkedin.png
-│   └── kaggle.png
+│ ├── github.png
+│ ├── linkedin.png
+│ └── kaggle.png
 │
 ├── task-3-platforms/
-│   ├── hackerrank.png
-│   ├── google-form.png
-│   └── responses.png
+│ ├── hackerrank.png
+│ ├── google-form.png
+│ └── responses.png
 │
 ├── task-4-email-etiquette/
-│   ├── email.txt
-│   └── social-media-checklist.md
+│ ├── email.txt
+│ └── social-media-checklist.md
 │
 └── task-5-cybercrime/
-    ├── casestudy.md
-    └── prevention-checklist.md
+├── casestudy.md
+└── prevention-checklist.md
 
 📌 Task Summaries
 ✅ Task 1 – Digital Literacy Awareness Infographic
