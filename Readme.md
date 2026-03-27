@@ -17,25 +17,32 @@ This repository is my Digital Literacy Portfolio submitted as part of the CSE000
 ---
 
 ## 📁 digital-literacy-project/
-├── README.md                          ← This file
+│
+├── README.md
+│
 ├── report/
-│   └── Project_Report.pdf             ← Full project report
+│   └── Project_Report.pdf
+│
 ├── task-1-presentation/
-│   └── infographic.png                ← Infographic (Canva export)
+│   └── infographic.png
+│
 ├── task-2-portfolio/
-│   ├── github.png                     ← GitHub profile screenshot
-│   ├── linkedin.png                   ← LinkedIn profile screenshot
-│   └── kaggle.png                     ← Kaggle profile screenshot
+│   ├── github.png
+│   ├── linkedin.png
+│   └── kaggle.png
+│
 ├── task-3-platforms/
-│   ├── hackerrank.png                 ← Completed coding challenge proof
-│   ├── google-form.png                ← Google Form screenshot
-│   └── responses.png                  ← Google Sheet responses screenshot
+│   ├── hackerrank.png
+│   ├── google-form.png
+│   └── responses.png
+│
 ├── task-4-email-etiquette/
-│   ├── email.txt                      ← Two professional email drafts
-│   └── social-media-checklist.md      ← Social media do's and don'ts
+│   ├── email.txt
+│   └── social-media-checklist.md
+│
 └── task-5-cybercrime/
-    ├── casestudy.md                   ← UPI Fraud case study
-    └── prevention-checklist.md        ← Stay Safe Online checklist
+    ├── casestudy.md
+    └── prevention-checklist.md
 
 📌 Task Summaries
 ✅ Task 1 – Digital Literacy Awareness Infographic
